@@ -69,6 +69,7 @@ pip install -r requirements.txt
   ```bash
   python database.py
   ```
+  
 
 ### **4️⃣ Run the Scraper**
 ```bash
